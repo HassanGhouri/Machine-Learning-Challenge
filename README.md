@@ -2,6 +2,9 @@
 Scratch Random Forest implementation and an instance of a random forest trained on the machine learning challenge dataset.
 
 Tree is already created and stored in "model_parms.py", use pred.py to use tree to make perdictions. 
+
+RandomForst.py and DecisionTree.py contaian code for scratch Decision Tree and Random Forest implementations, cleaned data set used to train tree is also provided. Trees use entropy to determine attributes and splits.
+
 Enter survey answers in following format and model will perdict which food item it is (Pizza, Shawarma, Sushi):
 Format: 
 
